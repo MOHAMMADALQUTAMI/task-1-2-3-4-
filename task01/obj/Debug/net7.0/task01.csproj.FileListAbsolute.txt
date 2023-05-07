@@ -1,0 +1,15 @@
+D:\VSCODE\task1\task01\bin\Debug\net7.0\task01.exe
+D:\VSCODE\task1\task01\bin\Debug\net7.0\task01.deps.json
+D:\VSCODE\task1\task01\bin\Debug\net7.0\task01.runtimeconfig.json
+D:\VSCODE\task1\task01\bin\Debug\net7.0\task01.dll
+D:\VSCODE\task1\task01\bin\Debug\net7.0\task01.pdb
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.csproj.AssemblyReference.cache
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.AssemblyInfoInputs.cache
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.AssemblyInfo.cs
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.csproj.CoreCompileInputs.cache
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.dll
+D:\VSCODE\task1\task01\obj\Debug\net7.0\refint\task01.dll
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.pdb
+D:\VSCODE\task1\task01\obj\Debug\net7.0\task01.genruntimeconfig.cache
+D:\VSCODE\task1\task01\obj\Debug\net7.0\ref\task01.dll
